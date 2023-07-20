@@ -1,4 +1,4 @@
-Once upon a time, in the early 20th century, a brilliant vision of computing began to take shape. It all started with pioneers like Alan Turing and Konrad Zuse, who laid the foundation for modern computers. Back then, the term "megahertz" would have been unheard of, but the dream of processing information automatically was already alive.
+In the early 20th century, a brilliant vision of computing began to take shape. It all started with pioneers like Alan Turing and Konrad Zuse, who laid the foundation for modern computers. Back then, the term "megahertz" would have been unheard of, but the dream of processing information automatically was already alive.
 
 As the years passed, the world witnessed the birth of the first programmable computer, ENIAC, in the 1940s. The clock speed was measured in microseconds, a far cry from the gigahertz we know today. Yet, ENIAC was a marvel of its time, capable of executing complex calculations that once required armies of mathematicians.
 
